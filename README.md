@@ -19,4 +19,4 @@ Check out the live demo [here](https://navodayanvinu.github.io/e-commerce-websit
 ## Contact me
 Vinod Malviya - [vk.malviya2002@gmail.com](mailto:vk.malviya2002@gmail.com)
 
-Project Link: [https://github.com/Navodayanvinu/Portfolio-Website](https://github.com/Navodayanvinu/Portfolio-Website)
+Project Link: [https://navodayanvinu.github.io/e-commerce-website/](https://navodayanvinu.github.io/e-commerce-website/)
