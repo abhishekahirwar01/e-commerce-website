@@ -15,11 +15,14 @@ Welcome to **Red-store**, an e-commerce site built using HTML, CSS, and JavaScri
 - **Styling:** Bootstrap, Custom CSS
 
 ## Demo
-Check out the live demo [here](https://github.com/abhishekahirwar01/e-commerce-website/).
+Check out the live demo [here](https://abhishekahirwar01.github.io/e-commerce-website/
+).
 
 ## Contact me
 Abhishek Ahirwar [ahirwarabhhi01@gmail.com](ahirwarabhi01@gmail.com)
 
-Project Link: [https://github.com/abhishekahirwar01/e-commerce-website/](https://github.com/abhishekahirwar01/e-commerce-website/)
+Project Link: [https://abhishekahirwar01.github.io/e-commerce-website/
+](https://abhishekahirwar01.github.io/e-commerce-website/
+)
 =======
 
