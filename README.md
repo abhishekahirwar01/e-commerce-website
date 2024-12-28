@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-commerce Site
 
 ## Introduction
@@ -14,9 +15,11 @@ Welcome to **Red-store**, an e-commerce site built using HTML, CSS, and JavaScri
 - **Styling:** Bootstrap, Custom CSS
 
 ## Demo
-Check out the live demo [here](https://navodayanvinu.github.io/e-commerce-website/).
+Check out the live demo [here](https://github.com/abhishekahirwar01/e-commerce-website/).
 
 ## Contact me
-Vinod Malviya - [vk.malviya2002@gmail.com](mailto:vk.malviya2002@gmail.com)
+Abhishek Ahirwar [ahirwarabhhi01@gmail.com](ahirwarabhi01@gmail.com)
 
-Project Link: [https://navodayanvinu.github.io/e-commerce-website/](https://navodayanvinu.github.io/e-commerce-website/)
+Project Link: [https://github.com/abhishekahirwar01/e-commerce-website/](https://github.com/abhishekahirwar01/e-commerce-website/)
+=======
+
